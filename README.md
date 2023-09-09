@@ -1,1 +1,1 @@
-# Curso Fullstack Developer Javasctipt - onebitcode
+# Curso Fullstack Developer Javascript - onebitcode
